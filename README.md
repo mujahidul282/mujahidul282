@@ -13,7 +13,7 @@
 
 ## 🛠️ Technologies & Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c++,java,js,react,nodejs,tensorflow,pytorch,mysql,docker" />
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,tensorflow,pytorch,mysql,docker" />
 </p>
 
 ---
