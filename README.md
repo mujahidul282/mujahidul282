@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mujahidul Islam</h1>
+<h3 align="center">AIML Developer | AI Researcher | ML Engineer</h3>
 
-<!--
-**mujahidul282/mujahidul282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
+- 🔭 I’m working on **AI & Deep Learning Projects**
+- 🌱 Learning **MLOps, Transformers, LLMs**
+- 💬 Ask me about **Python, ML, DL**
+- ⚡ Fun fact: I love solving real-world problems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technologies & Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c++,java,js,react,nodejs,tensorflow,pytorch,mysql,docker" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mujahidul282&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mujahidul282&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Your github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mujahidul282&theme=tokyo-night)](https://github.com/YOUR_USERNAME)
+
+---
+
+## 🧩 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujahidul282&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mujahidul282&theme=onedark" />
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail" /></a>
+</p>
+
+---
