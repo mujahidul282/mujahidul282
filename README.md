@@ -41,13 +41,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mujahidul282&theme=onedark" />
-</p>
-
----
 
 ## 📫 Connect with Me
 
