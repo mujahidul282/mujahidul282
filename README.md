@@ -52,8 +52,8 @@
 ## 📫 Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail" /></a>
+<a href="https://www.linkedin.com/in/mujahidul-islam-2a1776296/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" /></a>
+<a href="mailto:mujahidulislamoffcial02@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail" /></a>
 </p>
 
 ---
